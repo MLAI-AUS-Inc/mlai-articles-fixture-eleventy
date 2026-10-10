@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "framework": "eleventy",
+  "sandbox": true,
+  "output_dir": "_site",
+  "source_files": [
+    "package.json",
+    "index.njk"
+  ],
+  "deploy_host": "github-pages",
+  "repository_prefix": "mlai-articles-fixture-"
+}
